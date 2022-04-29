@@ -5,6 +5,12 @@ void main() {
 
   print('amount1 = $amount1 | amount2 = $amount2');
 
+  //doble
+  var double1 = 1.22;
+  double double2 = 2.33;
+
+  print('double1= $double1 | double2= $amount2');
+
   //boolean
   var bol1 = true;
   bool bol2 = false;
