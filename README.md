@@ -1,2 +1,2 @@
-# dart-fundamentals
+# learn-dart
 Learning dart programming language
