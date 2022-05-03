@@ -11,7 +11,7 @@ class Person {
 
   //named constructor
   Person.guest() {
-    name = 'Guest';
+    name = 'Guesst';
     age = 12;
   }
 
